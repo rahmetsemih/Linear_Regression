@@ -1,9 +1,5 @@
-#1. kutuphaneler
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
 
-#2. Veri Onisleme#1. kutuphaneler
+#1. kutuphaneler
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
